@@ -1,0 +1,21 @@
+{
+  "name": "web-dev-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web applications test",
+  "homepage": "https://github.com/Xitlali-L/Web-Dev-Repo#readme",
+  "bugs": {
+    "url": "https://github.com/Xitlali-L/Web-Dev-Repo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xitlali-L/Web-Dev-Repo.git"
+  },
+  "license": "MIT",
+  "author": "Xitlali lopez",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
